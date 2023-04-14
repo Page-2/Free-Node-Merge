@@ -24933,3 +24933,26 @@ Exception:name 'errnode' is not defined
 
 [2023-04-14 19:41:00] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNd0A2Mi4xMi4xMTYuNjY6OTg5
 Exception:name 'errnode' is not defined
+
+[2023-04-14 20:18:53] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xab in position 59: invalid start byte
+onenode:vmess://YXV0bzowZGExZDM3Mi1lYzYwLTRiODktOGEzZi03OTE1OTQzOGM2ZjBANS43OC45Ni4yMDQ6ODA?remarks=%E7%BE%8E%E5%9B%BD11&obfsParam=svideo.mfa.gov.cn&path=/masvod/public/2023/04/07/20230407_18759421dff_r1_1200k.mp4&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-14 20:18:53] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xab in position 59: invalid start byte
+onenode:vmess://YXV0bzowZGExZDM3Mi1lYzYwLTRiODktOGEzZi03OTE1OTQzOGM2ZjBANS43OC45Ni4yMDQ6ODA?remarks=%E7%BE%8E%E5%9B%BD11&obfsParam=svideo.mfa.gov.cn&path=/masvod/public/2023/04/07/20230407_18759421dff_r1_1200k.mp4&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-14 21:18:26] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VW1WNGJrSm5WVGRGVmpWQlJIaEg=@169.197.141.33:7002
+Exception:name 'errnode' is not defined
+
+[2023-04-14 21:18:27] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwak1qZzVNR1l6TkMwd01HWm1MVFF3TldVdFlUaGhOUzB4TVRSaE1HRmpOamxoT1RN@zz.onlines7.cloud:27115
+Exception:name 'errnode' is not defined
+
+[2023-04-14 21:18:31] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdz09QDE5MC4xMDMuMTc5LjIzOjk4OQ==
+Exception:name 'errnode' is not defined
+
+[2023-04-14 21:18:32] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwall6RTNaV0ppTmkxaVlqUTJMVFE1WWprdFlqaGpaaTAzWVRKaVpXSXpOVEppTm1ZPUA0Mi44MS4xNDIuMTo1MTgwOQ==
+Exception:name 'errnode' is not defined
+
+[2023-04-14 21:18:33] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVWNmFtWkJXWEV5U1dwMGRXOVRAMTY3Ljg4LjYzLjE3OjY2Nzk=
+Exception:name 'errnode' is not defined
