@@ -24878,3 +24878,39 @@ Exception:name 'errnode' is not defined
 
 [2023-04-14 13:42:45] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJSQ1NVUldOREpFUTNkdVprbE8=@169.197.142.39:8119
 Exception:name 'errnode' is not defined
+
+[2023-04-14 16:16:01] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 269: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMjciLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjRmN2Q1ZDQzLTIyNmUtNDhkOC05ZGYwLTVlOGJmOWY3NzI4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZnQuY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ8=
+
+
+[2023-04-14 16:16:01] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 269: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMjciLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjRmN2Q1ZDQzLTIyNmUtNDhkOC05ZGYwLTVlOGJmOWY3NzI4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZnQuY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ8=
+
+
+[2023-04-14 16:16:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy?remarks=%F0%9F%87%AB%F0%9F%87%B7_%5BWARP%5DScaleway&obfsParam=fr.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-14 16:16:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy?remarks=%F0%9F%87%AB%F0%9F%87%B7_%5BWARP%5DScaleway&obfsParam=fr.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-14 16:16:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xaa in position 70: invalid start byte
+onenode:vmess://YXV0bzpiNTE4MWRlOC02NmQ0LTRmOGYtOTA0Yy0yM2U2MDYzMDNhMTNAbWVkaWEuZmxhcmVhaS5zdG9yZToxMjE0Mw?remarks=IPLC-EU-UK-3%5Bran-out%5D(v2ray)&obfsParam=106-110-192-225.d.cjjd20.com&path=/lzu4t6t5j7qp72ebep0c&obfs=h2&tls=1&peer=106-110-192-225.d.cjjd20.com&allowInsecure=1&alterId=0
+
+
+[2023-04-14 16:16:04] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xaa in position 70: invalid start byte
+onenode:vmess://YXV0bzpiNTE4MWRlOC02NmQ0LTRmOGYtOTA0Yy0yM2U2MDYzMDNhMTNAbWVkaWEuZmxhcmVhaS5zdG9yZToxMjE0Mw?remarks=IPLC-EU-UK-3%5Bran-out%5D(v2ray)&obfsParam=106-110-192-225.d.cjjd20.com&path=/lzu4t6t5j7qp72ebep0c&obfs=h2&tls=1&peer=106-110-192-225.d.cjjd20.com&allowInsecure=1&alterId=0
+
+
+[2023-04-14 17:25:36] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdz09@192.36.41.28:989
+Exception:name 'errnode' is not defined
+
+[2023-04-14 17:25:47] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YTBSWGRsaFpXbTlVUW1OSGEwTTBAMzguODYuMTM1LjM2Ojg4ODI=
+Exception:name 'errnode' is not defined
+
+[2023-04-14 17:25:47] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwc2FuRmtZV3gxTVRNdUxn@108.61.224.223:8313
+Exception:name 'errnode' is not defined
+
+[2023-04-14 17:25:55] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVQDM1Ljg5LjEzMy4xODc6NDQz
+Exception:name 'errnode' is not defined
