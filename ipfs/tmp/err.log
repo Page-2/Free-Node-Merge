@@ -24914,3 +24914,22 @@ Exception:name 'errnode' is not defined
 
 [2023-04-14 17:25:55] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVQDM1Ljg5LjEzMy4xODc6NDQz
 Exception:name 'errnode' is not defined
+
+[2023-04-14 19:40:28] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xab in position 59: invalid start byte
+onenode:vmess://YXV0bzowZGExZDM3Mi1lYzYwLTRiODktOGEzZi03OTE1OTQzOGM2ZjBANS43OC45Ni4yMDQ6ODA?remarks=%E7%BE%8E%E5%9B%BD11&obfsParam=svideo.mfa.gov.cn&path=/masvod/public/2023/04/07/20230407_18759421dff_r1_1200k.mp4&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-14 19:40:47] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJSQ1NVUldOREpFUTNkdVprbE8=@169.197.142.39:8119
+Exception:name 'errnode' is not defined
+
+[2023-04-14 19:40:48] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM=@134.195.196.128:8090
+Exception:name 'errnode' is not defined
+
+[2023-04-14 19:40:49] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM=@134.195.196.19:8091
+Exception:name 'errnode' is not defined
+
+[2023-04-14 19:40:59] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@62.12.116.66:989
+Exception:name 'errnode' is not defined
+
+[2023-04-14 19:41:00] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNd0A2Mi4xMi4xMTYuNjY6OTg5
+Exception:name 'errnode' is not defined
