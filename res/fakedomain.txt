@@ -29870,3 +29870,12 @@ awshk15-data.amazon-azure.com:443:59d474ec-451e-40d0-ba3a-8ce78d2a73b8
 awsjp20-data.amazon-azure.com:443:51814a26-561d-4ed7-9b0c-7c8232706292
 awshk10-tg-data.amazonwebservicess.com:443:59d474ec-451e-40d0-ba3a-8ce78d2a73b8
 scloud60.jafiyun.world:22060:0e63818d-a7e3-35b5-94b2-9a9965db18e2
+scloud41.jafiyun.world:22041:8381c83f-2a5a-3e73-9869-3d9820bfed6f
+scloud59.jafiyun.world:22059:8381c83f-2a5a-3e73-9869-3d9820bfed6f
+scloud56.jafiyun.world:22056:8381c83f-2a5a-3e73-9869-3d9820bfed6f
+gzyd01.jcnode.top:20002:f136392e-2ffb-4f29-abf3-6078013d09a2
+scloud59.jafiyun.world:22059:be8938a3-9625-3465-acc7-4d2794603b2b
+0309tw.ljydw.top:443:5dbeb4fb-2618-4803-b9a8-6c75f647bdd2
+ssl.ykbkjt.com:44211:ac46f49a-b0eb-3980-88e9-9d5308a44cbc
+gzdx01.jcnode.top:40000:a427df0d-2af4-48e1-81e2-3462726bf464
+scloud41.jafiyun.world:22041:07e9b069-b46b-3187-bcc8-e79975fb2078
