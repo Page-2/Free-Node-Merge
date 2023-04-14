@@ -24971,3 +24971,13 @@ Exception:name 'errnode' is not defined
 
 [2023-04-14 23:17:04] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwemFIZHZaMmhTYVdFPQ==@195.28.182.217:51348
 Exception:name 'errnode' is not defined
+
+[2023-04-15 01:36:42] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (413) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDIxIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImZ0LmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-04-15 01:37:41] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVPUA0My4yMDEuODYuNDE6NDQz
+Exception:name 'errnode' is not defined
+
+[2023-04-15 01:37:42] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOEA5My4xODYuMjAxLjEyNDo4MTI=
+Exception:name 'errnode' is not defined
