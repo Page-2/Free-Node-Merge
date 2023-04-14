@@ -25057,3 +25057,32 @@ Exception:name 'errnode' is not defined
 
 [2023-04-15 05:05:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2Um05UGFVZHNhMEZCT1hsUVJVZFE=@ak1627.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:7306
 Exception:name 'errnode' is not defined
+
+[2023-04-15 05:09:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy?remarks=%F0%9F%87%AB%F0%9F%87%B7_%5BWARP%5DScaleway&obfsParam=fr.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-15 05:09:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy?remarks=%F0%9F%87%AB%F0%9F%87%B7_%5BWARP%5DScaleway&obfsParam=fr.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-15 05:09:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 269: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMjciLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjRmN2Q1ZDQzLTIyNmUtNDhkOC05ZGYwLTVlOGJmOWY3NzI4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZnQuY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ8=
+
+
+[2023-04-15 05:09:15] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x8c in position 269: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMjciLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjRmN2Q1ZDQzLTIyNmUtNDhkOC05ZGYwLTVlOGJmOWY3NzI4OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZnQuY2xvdWRmbGFyZS5xdWVzdCIsICJwYXRoIjogIi9hcmllcxlZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ8=
+
+
+[2023-04-15 06:39:38] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZTo4MDgw?remarks=%F0%9F%87%AB%F0%9F%87%B7_Scaleway&obfsParam=ft.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-15 06:40:10] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwall6RTNaV0ppTmkxaVlqUTJMVFE1WWprdFlqaGpaaTAzWVRKaVpXSXpOVEppTm1ZPQ==@42.81.142.1:51809
+Exception:name 'errnode' is not defined
+
+[2023-04-15 06:40:21] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VkVWNmFtWkJXWEV5U1dwMGRXOVQ=@167.88.61.60:6697
+Exception:name 'errnode' is not defined
+
+[2023-04-15 06:40:23] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOA==@38.68.134.196:808
+Exception:name 'errnode' is not defined
