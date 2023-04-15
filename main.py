@@ -668,7 +668,6 @@ if(menu == 'allclash'):
                             cipher = node['cipher']
                             if(cipher == 'ss'):
                                 errnode = errnode + '\n' + j + '\n' + onenode
-                                ii = ii - 1
                                 onenode = ''
                                 newname = ''
                             password = node['password'].replace('<', '').replace('>', '').replace('!', '')
@@ -682,7 +681,6 @@ if(menu == 'allclash'):
                             onenode = '  - {name: \'' + newname + '\', cipher: ' + cipher + ', password: ' + password + ', server: ' + server + ', port: ' + str(port) + ', type: ss}'
                         else:
                             errnode = errnode + '\n' + j + '\n' + onenode
-                            ii = ii - 1
                             onenode = ''
                             newname = ''
                     elif (j.find("trojan://") == 0):
