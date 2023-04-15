@@ -56,3 +56,4 @@
 {"uptime": "2024-04-14 12:09:30", "type": "mixed", "upmd5": "4267a7fcfd6c070d46ef6a989d79bda7", "upurl": "http://81.68.68.232:8080/ipns/k51qzi5uqu5dgiinzrr0r5xnq55uhoy6ytf0m1d27z655ha2mvljqyjybrj2xz/index.html", "size": 167788}
 {"uptime": "2024-12-01 08:48:12", "type": "mixed", "upmd5": "fc43ab481014efbf4f435e6e26e5ede3", "upurl": "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/out/node.txt", "size": 306908}
 {"uptime": "2024-12-01 08:48:20", "type": "mixed", "upmd5": "0a4fbbb7e246ddf99a02d3d0b847cf27", "upurl": "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/out/nodecn.txt", "size": 48136}
+{"uptime": "2024-01-18 00:28:11", "type": "clash", "upmd5": "36589f1645ff23448a04953b7340ec47", "upurl": "https://config.v2cross.com/clashprofile/config/", "size": 24897}
