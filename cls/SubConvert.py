@@ -91,6 +91,8 @@ class SubConvert():
     def check_url_v2ray_vmess(onenode):
         try:
             # onenode = '{add:v1-asw-sg-14.niaoyun.online,port:666,id:b9cc1e88-5db0-37ff-840a-b882345e22d1,aid:1,scy:auto,net:ws,host:v1-asw-sg-14.niaoyun.online,path:/niaocloud,tls:,sni:,v:2,ps:Relay_新加坡-_7234,type:none,serverPort:0,nation:}'
+            if(onenode.find('?') > -1):
+                onenode = onenode.split('?')[0]
             newnode = base64.b64decode(StrText.get_str_base64(onenode[8:])).decode('utf-8')
             if(newnode == '' or newnode == '{}'):
                 return ''
