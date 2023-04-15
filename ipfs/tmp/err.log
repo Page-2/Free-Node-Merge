@@ -214,3 +214,89 @@ Exception:name 'errnode' is not defined
 
 [2023-04-15 15:24:28] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YTBSWGRsaFpXbTlVUW1OSGEwTTA=@194.15.196.78:8882
 Exception:name 'errnode' is not defined
+
+[2023-04-15 16:16:06] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy
+
+
+[2023-04-15 16:16:06] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZToyMDUy
+
+
+[2023-04-15 16:16:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 228: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTIuNzQuMjI4LjE3MyIsInBvcnQiOiI0Mjg1NyIsImlkIjoiMDUxYjg0NGYtZWZlMy00ODQ3LTkyYWEtNjZiNWRlMGI2ZDRlIiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDEyNTc0IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:16:47] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 228: invalid start byte
+onenode:vmess://eyJhZGQiOiIxOTIuNzQuMjI4LjE3MyIsInBvcnQiOiI0Mjg1NyIsImlkIjoiMDUxYjg0NGYtZWZlMy00ODQ3LTkyYWEtNjZiNWRlMGI2ZDRlIiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6Iue+juWbvV8wNDEyNTc0IiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:17:27] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 192: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9vbF/wn4e68J+HuFVTXzE4NjMiLCAiYWRkIjogIjIzLjIyNS4yOC4xODMiLCAicG9ydCI6IDQ5MjM0LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjIyNzhlZmU0LWFkMGMtNDdjZS05NDgwLTA2ODYwODM2OGQ3NiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:17:27] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 192: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9vbF/wn4e68J+HuFVTXzE4NjMiLCAiYWRkIjogIjIzLjIyNS4yOC4xODMiLCAicG9ydCI6IDQ5MjM0LCAiYWlkIjogNjQsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjIyNzhlZmU0LWFkMGMtNDdjZS05NDgwLTA2ODYwODM2OGQ3NiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:17:42] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 216: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIOWuieW+veecgS4uLiIsICJhZGQiOiAiMTIwLjIxMC4yMDUuMjIwIiwgInBvcnQiOiAzNjkxOCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTFkYWNkNi0wMzBiLTQxYWQtYmZiNi0zYTgyMmVjODMwMTQiLCAic25pIjogIiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:17:42] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0x86 in position 216: invalid start byte
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAidjJyYXlmcmVlLmV1Lm9yZyAtIOWuieW+veecgS4uLiIsICJhZGQiOiAiMTIwLjIxMC4yMDUuMjIwIiwgInBvcnQiOiAzNjkxOCwgImFpZCI6IDY0LCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTFkYWNkNi0wMzBiLTQxYWQtYmZiNi0zYTgyMmVjODMwMTQiLCAic25pIjogIiJ9<html><head><title>Loading...</title></head><body><scripttype='text/javascript'>window.location.replace('https://proxy.huwo.club/v2ray.txt
+
+
+[2023-04-15 16:17:42] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzowZGExZDM3Mi1lYzYwLTRiODktOGEzZi03OTE1OTQzOGM2ZjBANS43OC45Ni4yMDQ6ODA
+
+
+[2023-04-15 16:17:42] SubConvert-Line-116-Exception: Expecting value: line 1 column 1 (char 0)
+onenode:vmess://YXV0bzowZGExZDM3Mi1lYzYwLTRiODktOGEzZi03OTE1OTQzOGM2ZjBANS43OC45Ni4yMDQ6ODA
+
+
+[2023-04-15 17:29:01] SubConvert-Line-116-Exception: Invalid base64-encoded string: number of data characters (413) cannot be 1 more than a multiple of 4
+onenode:vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICJjZi5ub2FyaWVzLmRlIiwgInBvcnQiOiAiODA4MCIsICJpZCI6ICI0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImZ0LmNsb3VkZmxhcmUucXVlc3QiLCAicGF0aCI6ICIvYXJpZXM_ZWQ9MjA0OCIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+
+
+[2023-04-15 17:30:12] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1HRmpORGc1TXkwM1ltVXdMVFEzWkdZdE9UWTBOaTB6TmpRM016RXpZVFppWkRn@hk5.network-cdn-gw.cc:47705
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:12] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOA==@38.68.134.196:808
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:12] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1HRmpORGc1TXkwM1ltVXdMVFEzWkdZdE9UWTBOaTB6TmpRM016RXpZVFppWkRn@kr03.network-cdn-gw.cc:41115
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:12] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STM=@134.195.196.19:8091
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:12] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMTM0LjE5NS4xOTYuMTI4OjgwOTE=
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:13] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOEA4MS45MC4xODkuMTUyOjgwMA==
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2TURBelpHSXdaRGt0WWpoaFpDMDBPVFkyTFRreVl6RXROV0l6WTJNME9URmtOMlkx@gzdx01.jcnode.top:49001
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJSQ1NVUldOREpFUTNkdVprbE8=@134.195.196.149:8119
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdz09QDE5Mi4zNi4yNy45NDo5ODk=
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOA==@162.251.61.221:809
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@135.125.244.103:989
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURVPUAxOC4xNDEuMjMwLjIyMTo0NDM=
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJSQ1NVUldOREpFUTNkdVprbE8=@38.68.134.190:8119
+Exception:name 'errnode' is not defined
+
+[2023-04-15 17:30:14] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WmpobU4yRkRlbU5RUzJKelJqaHdNdw==@190.120.230.9:989
+Exception:name 'errnode' is not defined
