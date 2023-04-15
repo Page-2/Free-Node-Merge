@@ -179,7 +179,7 @@ class SubConvert():
             if((password.isnumeric() and len(password) > 19) or password == ''):
                 return ''
             # 过滤不支持的cipher
-            if (cipher == '2022-blake3-aes-128-gcm'):
+            if (cipher == '2022-blake3-aes-128-gcm' or cipher == 'cipher'):
                 return ''
             
             # 字典格式SS信息

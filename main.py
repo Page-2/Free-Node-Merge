@@ -634,6 +634,7 @@ if(menu == 'allclash'):
         allnodetxt = LocalFile.read_LocalFile('./res/node.txt')
     allnodetxt = base64.b64decode(allnodetxt).decode('utf-8')
     # 逐条读取链接，并生成CLASH国外订阅链接 
+    errnode = ''
     clashurl = ''
     openclashurl = ''
     clash_node_url = ''
