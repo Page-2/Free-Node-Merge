@@ -25086,3 +25086,35 @@ Exception:name 'errnode' is not defined
 
 [2023-04-15 06:40:23] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwSElYbENkMUJYU0ROV1lXOA==@38.68.134.196:808
 Exception:name 'errnode' is not defined
+
+[2023-04-15 10:02:16] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZTo4MDgw?remarks=%F0%9F%87%AB%F0%9F%87%B7_Scaleway&obfsParam=ft.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-15 10:02:16] SubConvert-Line-116-Exception: 'utf-8' codec can't decode byte 0xad in position 60: invalid start byte
+onenode:vmess://YXV0bzo0ZjdkNWQ0My0yMjZlLTQ4ZDgtOWRmMC01ZThiZjlmNzcyODhAY2Yubm9hcmllcy5kZTo4MDgw?remarks=%F0%9F%87%AB%F0%9F%87%B7_Scaleway&obfsParam=ft.cloudflare.quest&path=/aries?ed=2048&obfs=websocket&tfo=1&alterId=0
+
+
+[2023-04-15 11:29:03] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2WTJSQ1NVUldOREpFUTNkdVprbE9AMTk0LjE1LjE5Ni43ODo4MTE5
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:04] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1HRmpORGc1TXkwM1ltVXdMVFEzWkdZdE9UWTBOaTB6TmpRM016RXpZVFppWkRn@hk5.network-cdn-gw.cc:47705
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:04] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1HRmpORGc1TXkwM1ltVXdMVFEzWkdZdE9UWTBOaTB6TmpRM016RXpZVFppWkRn@tw01.network-cdn-gw.cc:46601
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:04] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2UzJsNFRIWkxlbmRxWld0SE1EQnliUQ==@167.88.63.5:8000
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:04] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMTM0LjE5NS4xOTYuMTI4OjgwOTA=
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:04] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2YTBSWGRsaFpXbTlVUW1OSGEwTTBAMzguODYuMTM1LjM2Ojg4ODI=
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:18] Main-Line-669-j:ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@54.250.130.55:443
+Exception:name 'errnode' is not defined
+
+[2023-04-15 11:29:18] Main-Line-669-j:ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvek1HRmpORGc1TXkwM1ltVXdMVFEzWkdZdE9UWTBOaTB6TmpRM016RXpZVFppWkRn@vn01.network-cdn-gw.cc:20001
+Exception:name 'errnode' is not defined
