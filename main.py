@@ -41,6 +41,7 @@ print('menu: ' + menu)
 # 配置信息和同步本地需要更新的资源文件
 # resurl = "http://127.0.0.1/"
 resurl = 'http://81.68.68.232:8080/ipns/k51qzi5uqu5dgiinzrr0r5xnq55uhoy6ytf0m1d27z655ha2mvljqyjybrj2xz/'
+errnode = ''
 
 # 对程序的基本信息进行下载更新，下载IPFS网关信息和过滤列表信息
 if(menu == 'init'):
@@ -634,7 +635,6 @@ if(menu == 'allclash'):
         allnodetxt = LocalFile.read_LocalFile('./res/node.txt')
     allnodetxt = base64.b64decode(allnodetxt).decode('utf-8')
     # 逐条读取链接，并生成CLASH国外订阅链接 
-    errnode = ''
     clashurl = ''
     openclashurl = ''
     clash_node_url = ''
