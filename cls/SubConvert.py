@@ -170,7 +170,7 @@ class SubConvert():
                 onenode = base64.b64decode(StrText.get_str_base64(nod[0]).encode('utf-8')).decode('utf-8')
                 if (onenode.find('ss://') == 0 and onenode.find('@') > -1):
                     nod = onenode.split('@', 1) # 第二个参数为 1，返回两个参数列表
-                    onenode = base64.b64decode(StrText.get_str_base64(nod[0]).encode('utf-8')).decode('utf-8') + '@' + nod[1]
+                    onenode = base64.b64decode(StrText.get_str_base64(nod[0][5:]).encode('utf-8')).decode('utf-8') + '@' + nod[1]
             #aes-256-gcm:n8w4StnbVD9dmXYn4Ajt87EA@212.102.54.163:31572
             cipher = onenode.split(':')[0]
             port = onenode.rsplit(':', 1)[1]
@@ -180,9 +180,11 @@ class SubConvert():
 
             # 19位以上纯数字或者为空时报错，float64位数字不为string
             if((password.isnumeric() and len(password) > 19) or password == ''):
+                LocalFile.write_LogFile('SubConvert-Line-183-password:' + password + '\noldonenode:' + oldonenode)
                 return ''
             # 过滤不支持的cipher
-            if (cipher == '2022-blake3-aes-128-gcm' or cipher == 'cipher'):
+            if (cipher == '2022-blake3-aes-128-gcm' or cipher == 'cipher' or cipher == 'ss'):
+                LocalFile.write_LogFile('SubConvert-Line-189-cipher:' + cipher + '\noldonenode:' + oldonenode)
                 return ''
             
             # 字典格式SS信息
