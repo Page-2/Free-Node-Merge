@@ -821,7 +821,8 @@ if(menu == 'allclash'):
                         # onenode = '- name: \'' + remarks + '\'\n  server: ' + server + '\n  port: ' + str(port) + '\n  protocol: ' + protocol + '\n  cipher: ' + cipher + '\n  obfs: ' + http_simple + '\n  obfs-param: ' + obfsparam + '\n  password: ' + password + '\n  protocol-param: ' + protoparam + '\n  group: ' + group + '\n  type: ssr'
                         # 格式二
                         #- {name: "linkthink.app", server: dg-hk-node02.linkthink.app, port: 12025, type: ssr, cipher: dummy, password: e5opjuLDEQ, protocol: origin, obfs: http_post, protocol-param: "", obfs-param: ajax.microsoft.com, udp: true}
-                        onenode = '  - {name: \'' + newname + '\', server: ' + server + ', port: ' + str(port) + ', type: ssr, cipher: ' + cipher + ', password: ' + password + ', protocol: ' + protocol + ', obfs: ' + http_simple + ', obfs-param: ' + obfsparam + ', protocol-param: ' + protoparam + ', group: ' + group + '}'
+                        # onenode = '  - {name: \'' + newname + '\', server: ' + server + ', port: ' + str(port) + ', type: ssr, cipher: ' + cipher + ', password: ' + password + ', protocol: ' + protocol + ', obfs: ' + http_simple + ', obfs-param: ' + obfsparam + ', protocol-param: ' + protoparam + ', group: ' + group + '}'
+                        onenode = '  - {name: \'' + newname + '\', server: ' + server + ', port: ' + str(port) + ', type: ssr, cipher: ' + cipher + ', password: ' + password + ', protocol: ' + protocol + ', obfs: ' + http_simple + '}'
                     else:
                         print('Main-Line-723-已跳过-onenode:\n' + j)
                         continue
