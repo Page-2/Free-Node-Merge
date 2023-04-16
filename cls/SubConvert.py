@@ -161,13 +161,16 @@ class SubConvert():
             # onenode = 'YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@212.102.54.163:10443/?plugin=obfs-123#title'
             # onenode = 'YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDIxMi4xMDIuNTQuMTYzOjMxNTcy#title'
             onenode = onenode.replace('/?', '#').replace('ss://', '')
-            jjs = onenode.split('#', 1) # 第二个参数为 1，返回两个参数列表
-            onenode = jjs[0]
+            nod = onenode.split('#', 1) # 第二个参数为 1，返回两个参数列表
+            onenode = nod[0]
             if (onenode.find('@') > -1):
-                jjs = onenode.split('@', 1) # 第二个参数为 1，返回两个参数列表
-                onenode = base64.b64decode(StrText.get_str_base64(jjs[0]).encode('utf-8')).decode('utf-8') + '@' + jjs[1]
+                nod = onenode.split('@', 1) # 第二个参数为 1，返回两个参数列表
+                onenode = base64.b64decode(StrText.get_str_base64(nod[0]).encode('utf-8')).decode('utf-8') + '@' + nod[1]
             else:
-                onenode = base64.b64decode(StrText.get_str_base64(jjs[0]).encode('utf-8')).decode('utf-8')
+                onenode = base64.b64decode(StrText.get_str_base64(nod[0]).encode('utf-8')).decode('utf-8')
+                if (onenode.find('ss://') == 0 and onenode.find('@') > -1):
+                    nod = onenode.split('@', 1) # 第二个参数为 1，返回两个参数列表
+                    onenode = base64.b64decode(StrText.get_str_base64(nod[0]).encode('utf-8')).decode('utf-8') + '@' + nod[1]
             #aes-256-gcm:n8w4StnbVD9dmXYn4Ajt87EA@212.102.54.163:31572
             cipher = onenode.split(':')[0]
             port = onenode.rsplit(':', 1)[1]
