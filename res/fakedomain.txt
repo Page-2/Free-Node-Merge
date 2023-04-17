@@ -35600,3 +35600,5 @@ gxct.lele233.top:24389:a1ed9450-e622-4137-876a-84d4507efda8
 2233cloud:443:c0fff2a6-b280-3cb9-9bfc-9abcf30bca65
 6w7j3p02.mcfront.xyz:31106:cf77c3a4-2550-4a4a-b796-2eaf424ed10c
 awssg17-data.amazon-azure.com:443:e667f182-e717-4153-b75d-fdc7143657df
+scloud53.jafiyun.world:22053:a666246d-5350-3e73-a3eb-6d0883f14c94
+scloud29.jafiyun.world:22029:015d6359-4208-377e-a410-c19bc4fd5d56
